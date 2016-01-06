@@ -1,0 +1,32 @@
+{
+  "name": "js-design-patterns-getting-started",
+  "version": "1.0.0",
+  "description": "0.0.1",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuinntyneBrown/js-design-patterns-getting-started.git"
+  },
+  "author": "Quinntyne Brown",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QuinntyneBrown/js-design-patterns-getting-started/issues"
+  },
+  "homepage": "https://github.com/QuinntyneBrown/js-design-patterns-getting-started#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "rimraf": "^2.5.0"
+  },
+  "dependencies": {
+    "angular2": "^2.0.0-beta.0",
+    "es6-promise": "^3.0.2",
+    "es6-shim": "^0.33.13",
+    "reflect-metadata": "^0.1.2",
+    "rxjs": "^5.0.0-beta.0",
+    "systemjs": "^0.19.11",
+    "zone.js": "^0.5.10"
+  }
+}
