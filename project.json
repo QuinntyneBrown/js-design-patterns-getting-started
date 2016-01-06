@@ -6,6 +6,7 @@
 
   "dependencies": {
     "Microsoft.AspNet.AngularServices": "1.0.0-alpha6",
+    "Microsoft.AspNet.Diagnostics": "1.0.0-rc1-final",
     "Microsoft.AspNet.IISPlatformHandler": "1.0.0-rc1-final",
     "Microsoft.AspNet.Mvc": "6.0.0-rc1-final",
     "Microsoft.AspNet.Mvc.TagHelpers": "6.0.0-rc1-*",

@@ -37,6 +37,7 @@ namespace JsDesignPatternsGettingStarted
         {
             app.UseIISPlatformHandler();
             app.UseStaticFiles();
+            app.UseDeveloperExceptionPage();
 
             app.UseMvc(routes =>
             {
